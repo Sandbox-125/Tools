@@ -1,2 +1,11 @@
-# Tools
-A collection of tools made by the nerds @ axial
+<h1 align="left">
+Tools created by Nerds of AXIAL 
+</h1>
+<img src="https://github.com/umair9747/vichiti/raw/main/logo.png">
+<ul type="disc">
+  <li><b>Tool Name:</b> Vichiti</li>
+  <li><b>Author:</b> <a href="https://twitter.com/0x9747">0x9747</a></li>
+  <li><img src="https://img.shields.io/badge/Release%20Status-beta-yellow"> </li>
+  <li><b>Domain:</b> Open-source Intelligence</li>
+ </ul>
+ 
