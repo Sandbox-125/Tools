@@ -1,5 +1,5 @@
 <h1 align="left">
-Tools created by Nerds of AXIAL 
+Tools created by Nerds @ AXIAL 
 </h1>
 <img src="https://github.com/umair9747/vichiti/raw/main/logo.png">
 <ul type="disc">
