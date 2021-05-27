@@ -4,6 +4,6 @@
 
 **What is FLAMES?**
 
-Infostealer Flames is a binary which extracts anddecrypts Chrome Passwords. This paper, as well as the attached code segment, willuse a malicious word Macro writtenin VbScript to download a malicious binary from aremote server. Once the binary isexecuted on the target host , it will exfiltrate data to a remote FTPserver using theWININET API. The programmatic implementation willbe written in C using theWINAPI by [Devisha Rochlani](https://twitter.com/DevishaRochlani)
+Infostealer Flames is a binary which extracts and decrypts Chrome Passwords. This paper, as well as the attached code segment, will use a malicious word Macro written in VbScript to download a malicious binary from a remote server. Once the binary is executed on the target host , it will exfiltrate data to a remote FTP Server using the WININET API. The programmatic implementation will be written in C using the WINAPI by [Devisha Rochlani](https://twitter.com/DevishaRochlani)
 
 PoC : [Check Out](https://github.com/AXI4L/Tools/blob/main/FLAMES/MultiStaged_Malware_POC.pdf)
