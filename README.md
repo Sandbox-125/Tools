@@ -10,7 +10,7 @@ Tools created by Nerds @ AXIAL
   <li><b>Domain:</b> Open-source Intelligence</li>
  </ul>
 
-<img src="https://user-images.githubusercontent.com/49472311/119732591-026cf900-be96-11eb-8048-0d507259913f.png" alt="FLAMES" width="400" class="center">
+<img src="https://user-images.githubusercontent.com/49472311/119732591-026cf900-be96-11eb-8048-0d507259913f.png" alt="FLAMES" height="400" width="200" class="center">
 <ul type="disc">
   <li><b>Tool Name:</b> <a href="https://github.com/AXI4L/Tools/tree/main/FLAMES">FLAMES</a></li>
   <li><b>Author:</b> <a href="https://twitter.com/DevishaRochlani">Devisha Rochlani</a></li>
